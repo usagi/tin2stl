@@ -2,5 +2,22 @@
 name = "tin2stl"
 version = "1.0.0"
 edition = "2021"
+description = "Converts tin files to stl files"
+license = "MIT"
+repository = "https://github.com/usagi/tin2stl"
+readme = "README.md"
+keywords = [
+ "tin",
+ "stl",
+ "3d",
+ "3d-printing",
+ "3d-model",
+ "terrain",
+ "surveying",
+ "gis",
+]
+categories = ["3d", "3d-printing", "3d-model"]
+authors = ["usagi"]
+documentation = "https://docs.rs/tin2stl"
 
 [dependencies]
